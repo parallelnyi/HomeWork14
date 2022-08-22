@@ -1,0 +1,25 @@
+.list {
+	width: 800px;
+	height: 60px;
+	margin-top: 30px;
+	border: 3px solid ;
+	border-radius: 20px;
+	text-align: center;
+	margin: center;
+	margin-bottom: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+
+}
+.list p {
+	border: 3px solid rgb(219, 169, 20);
+}
+.list div {
+	cursor: pointer;
+	width: 80px;
+	height: 25px;
+	border-radius: 5px;
+	border: 3px solid red;
+	font-weight: bold;
+}
