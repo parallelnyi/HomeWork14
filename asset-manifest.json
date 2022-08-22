@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HomeWork14.github.io/static/css/main.29c25e3c.css",
+    "main.js": "/HomeWork14.github.io/static/js/main.4bf445db.js",
+    "index.html": "/HomeWork14.github.io/index.html",
+    "main.29c25e3c.css.map": "/HomeWork14.github.io/static/css/main.29c25e3c.css.map",
+    "main.4bf445db.js.map": "/HomeWork14.github.io/static/js/main.4bf445db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29c25e3c.css",
+    "static/js/main.4bf445db.js"
+  ]
+}
